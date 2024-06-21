@@ -1,6 +1,7 @@
-<p style="text-align:center; font-size: larger; font-weight: bold"> The test speaks to us more clearly, as if it were an assertion of truth, not a sequence of operations </p>
+<p align="center" style="font-size: 50"> <em> The test speaks to us more clearly, as if it were an assertion of truth, <b>not a sequence of operations</b></em> </p>
 
 ## Philosophy
+
 ```
 Write a test
 
@@ -24,9 +25,9 @@ _Yes and No_
 -   Function Overloading &rarr; Compilation Error `Function redeclared in block`
     -   declare functions in different packages
     -   define methods
--   
 
-## Index
+## Contents
 
 -   [Interface](./structs/README.md/#interface)
 -   [Table Driven Tests](./structs/README.md/#table-driven-tests)
+-   [Pointers](./pointers/README.md/#pointers)
