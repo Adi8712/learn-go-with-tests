@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 50"> <em> The test speaks to us more clearly, as if it were an assertion of truth, <b>not a sequence of operations</b></em> </p>
+<p align="center"> <em> The test speaks to us more clearly, as if it were an assertion of truth, <b>not a sequence of operations</b></em> </p>
 
 ## Philosophy
 
