@@ -31,3 +31,4 @@ _Yes and No_
 -   [Interface](./structs/README.md/#interface)
 -   [Table Driven Tests](./structs/README.md/#table-driven-tests)
 -   [Pointers](./pointers/README.md/#pointers)
+-   [Dependency Injection](./di/README.md/#dependency-injection)
